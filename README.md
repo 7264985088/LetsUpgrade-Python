@@ -1,2 +1,2 @@
 # LetsUpgrade-Python
-Day1 Assignment(Batch 7) submission 
+Day2 Assignment(Batch 7) submission 
